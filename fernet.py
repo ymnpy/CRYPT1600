@@ -59,8 +59,7 @@ def center_window(window):
     window.geometry(f"{width}x{height}+{x}+{y}")
 
 
-if __name__=="__main__":
-    
+if __name__=="__main__": 
     # Initialize the GUI
     app = tk.Tk()
     app.title("CRYPT1600")
